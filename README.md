@@ -10,12 +10,14 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
 </a>
 <br>
+<br>
 <a href="https://github.com/Hautoday/sql" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 </a>
 <a href="" target="_blank">
     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
 </a>
+<br>
 <br>
 <a href="https://github.com/Hautoday/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
@@ -34,12 +36,26 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white"/>
 </a>
 <br>
+<br>
 <a href="https://github.com/Hautoday/Java" target="_blank">
     <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&logoColor=white"/>
 </a>
 <a href="" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
 </a>
+<br>
+<hr>
+<br>
+<a href="" target="_blank">
+    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-#9999FF?logo=Adobe Premiere Pro&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?logo=Adobe Photoshop&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+    <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-#217346?logo=Microsoft Excel&logoColor=white"/>
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hautoday&show_icons=true&theme=react)
 
