@@ -41,17 +41,6 @@
 <a href="" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
 </a>
-<hr dir="auto">
-<a href="" target="_blank">
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white"/>
-</a>
-<a href="" target="_blank">
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white"/>
-</a>
-<a href="" target="_blank">
-    <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft Excel&logoColor=white"/>
-</a>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hautoday&show_icons=true&theme=react)
 
@@ -60,4 +49,14 @@
 </a>
 <a href="" target="_blank">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+</a>
+<br>
+<a href="" target="_blank">
+    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white"/>
+</a>
+<a href="" target="_blank">
+    <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft Excel&logoColor=white"/>
 </a>
