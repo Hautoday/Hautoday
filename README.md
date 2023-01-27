@@ -43,6 +43,7 @@
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hautoday&show_icons=true&theme=react)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlcks0727)](https://solved.ac/rlcks0727)
 
 <a href="" target="_blank">
     <img alt="hautoday27@naver.com" src="https://img.shields.io/badge/hautoday27@naver.com-EA4335?logo=Gmail&logoColor=white"/>
