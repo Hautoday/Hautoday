@@ -42,7 +42,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
 </a>
 
-<hr>
+<hr style="border: 0; height:1px; background:#ccc;">
 <a href="" target="_blank">
     <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white"/>
 </a>
