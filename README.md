@@ -35,17 +35,17 @@
     <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&logoColor=white"/>
 </a>
 <a href="" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-#1572B6?logo=CSS3&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
 </a>
 
 <a href="" target="_blank">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-##007ACC?logo=Visual Studio Code&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
 </a>
 <a href="" target="_blank">
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-##F80000?logo=Oracle&logoColor=white"/>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
 </a>
 <a href="" target="_blank">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-##000000?logo=Notion&logoColor=white"/>
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
 </a>
 
 
