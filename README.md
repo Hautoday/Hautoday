@@ -30,7 +30,7 @@
 <a href="https://github.com/Hautoday/C" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
 </a>
-<br>
+<br> 
 <a href="https://github.com/Hautoday/Linux" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white"/>
 </a>
