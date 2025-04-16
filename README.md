@@ -36,7 +36,7 @@
 </a>
 <br>
 <a href="https://github.com/Hautoday/Java" target="_blank">
-    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&logoColor=white"/>
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=Eclipse IDE&logoColor=white"/>
 </a>
 <a href="" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white"/>
@@ -63,4 +63,4 @@
 </a>
 
 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHautoday&count_bg=%2300AAFF&title_bg=%23696969&icon=&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
+<--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHautoday&count_bg=%2300AAFF&title_bg=%23696969&icon=&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)-->
