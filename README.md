@@ -36,7 +36,7 @@
 </a>
 <br>
 <a href="https://github.com/Hautoday/Java" target="_blank">
-    <img alt="Eclipse IDE" src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=Eclipse IDE&logoColor=white"/>
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/>
 </a>
 <a href="" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white"/>
