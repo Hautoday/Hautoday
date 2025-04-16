@@ -56,7 +56,7 @@
     <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=AdobePremierePro&logoColor=white"/>
 </a>
 <a href="" target="_blank">
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white"/>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white"/>
 </a>
 <a href="" target="_blank">
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=MicrosoftExcel&logoColor=white"/>
